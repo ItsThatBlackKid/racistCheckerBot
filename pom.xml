@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.adeptlabs</groupId>
-    <artifactId>Discord Bot</artifactId>
+    <artifactId>discord-racist-bot</artifactId>
     <version>1.0</version>
 
     <properties>
