@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes/RacistBotKt.class
+web: java -cp target/classes/:target/dependencyt/* RacistBotKt.class
