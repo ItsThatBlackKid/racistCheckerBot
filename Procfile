@@ -1,1 +1,1 @@
-web: java -cp target/classes/:target/dependencyt/* RacistBotKt
+web: java -cp target/classes/:target/dependency/* RacistBotKt
